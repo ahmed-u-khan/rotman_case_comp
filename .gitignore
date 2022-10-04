@@ -130,6 +130,13 @@ dmypy.json
 
 
 # store files
-
 .DS_Store
 *.DS_Store
+
+#ignoring big xlsx or csv files
+transactions.csv
+demographics.csv
+transactions.xlsx
+demographics.xlsx
+transactions.xls
+demographics.xls
