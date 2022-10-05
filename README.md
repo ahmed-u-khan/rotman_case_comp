@@ -18,4 +18,4 @@ Tableau Desktop is the smoother and full-power version of Tableau Public and whi
 
 ## presentation
 
-[THIS](https://docs.google.com/presentation/d/1b7BPdFTFo38qNtNbSsuhnq6tkKY2lopJqO0rwpOqHvU/edit?usp=sharing) is where we post out visuals and presentables to each other and the judges.
+[THIS](https://docs.google.com/presentation/d/1b7BPdFTFo38qNtNbSsuhnq6tkKY2lopJqO0rwpOqHvU/edit?usp=sharing) is where we post our visuals and presentables to each other and the judges.
